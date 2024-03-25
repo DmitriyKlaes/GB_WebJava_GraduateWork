@@ -1,0 +1,3 @@
+application:
+  csv:
+    path: "dataset/goodreads_top100_from1980to2023_final.csv"
